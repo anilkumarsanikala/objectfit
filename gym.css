@@ -1,0 +1,116 @@
+header{
+    background-image: url(https://img.mensxp.com/media/content/2021/Sep/Card-Thumnail_61530faec9df0.jpeg?w=450&h=210&cc=1);
+}
+h1{
+    font-family:sans-serif;
+    color: white;
+    font-style: italic;
+    text-decoration: 3px solid underline;
+    text-align: center;
+}
+.a{
+    text-align: right;
+    color: white;
+    font-family: sans-serif;
+    font-style: italic;
+    text-transform: capitalize;
+    font-size: x-large;
+    text-shadow: 4px 4px 5px white;
+}
+.b{
+    text-align: center;
+    color: white;
+    font-family: sans-serif;
+    font-style: italic;
+    text-transform: lowercase;
+    font-size: x-large;
+    text-shadow: 4px 4px 5px white;
+}
+.c{
+    text-align: left;
+    color: white;
+    font-family: sans-serif;
+    font-style: italic;
+    text-transform: uppercase;
+    font-size: x-large;
+    text-shadow: 4px 4px 5px white;
+}
+.d{
+    color: white;
+    background: linear-gradient(to right, orange, yellow);
+    font-family: sans-serif;
+    font-style: italic;
+    text-align: center;
+}
+.e{
+    margin-left: 40%;
+    width: 250px;
+    height: 250px;
+    background-color: white;
+    border: 2px solid red;
+}
+main{
+    background: linear-gradient(to right, blue, lightblue);
+}
+.box{
+    width: 250px;
+    height: 250px;
+    background-color: white;
+    border: 2px solid yellow;
+    margin-left: 40%;
+}
+.box img{
+    width: 200px;
+    height: 150px;
+    padding-left: 25px;
+}
+.box .f{
+    width: 250px;
+    height: 95px;
+    background-color: gold;
+    text-align: center;
+    font-family: sans-serif;
+}
+.f b{
+    font-size: large;
+    color:lightseagreen;
+}
+.box1{
+    width: 250px;
+    height: 250px;
+    background-color: white;
+    border: 2px solid yellow;
+    margin-left: 40%;
+    margin-top: 20px;
+    text-align: center;
+    font-family: sans-serif;
+}
+.box1 img{
+    width: 250px;
+    height: 150px;
+    object-fit: fill;
+    
+}
+.box1 b{
+    color: lightseagreen;
+    font-size: large;
+}
+.box2{
+    width: 250px;
+    height: 250px;
+    background-color: white;
+    border: 2px solid yellow;
+    margin-left: 40%;
+    margin-top: 20px;
+    text-align: center;
+    font-family: sans-serif;
+}
+.box2 img{
+    width: 250px;
+    height: 150px;
+    object-fit: fill;
+}
+.box2 b{
+    color: lightseagreen;
+    font-size: large;
+}
